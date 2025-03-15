@@ -1,0 +1,22 @@
+{
+  "name": "belajar-playwright-pom",
+  "version": "1.0.0",
+  "description": "belajar playwright page object model",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weleyam/belajar-playwright-pom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weleyam/belajar-playwright-pom/issues"
+  },
+  "homepage": "https://github.com/weleyam/belajar-playwright-pom#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
